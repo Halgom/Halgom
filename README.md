@@ -7,7 +7,7 @@
 
 # This is me breaking into the programming world...
 
-## `$ whoami`
+## :heavy_dollar_sign: `whoami`
 
 ```js
 class User {
@@ -35,12 +35,12 @@ class User {
 }
 ```
 
-## Technologies I love
+## :heart: Technologies I love
 
-- Creative Frontend, [See my CodePen profile](https://codepen.io/Halgo)
-- Software Development,
+- Creative Frontend stuff [![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)](https://codepen.io/Halgo)
+- Software Development
 
-## Technologies I use
+## :computer: Technologies I use
 
 |           | Languages                                                                                                                                                                                                                                                                       | Technologies                                                                                                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ class User {
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom&hide_progress=true)
 
-## Current Works
+## :clock9: Current Works :clock5:
 
 - Backend automation
 - I'm currently working on 🔭 building an **API using API Platform** and on polishing my skills 🌱 in **Creative Frontend**.
