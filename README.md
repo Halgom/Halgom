@@ -38,6 +38,35 @@ class User {
 ## :heart: Technologies I love
 
 - Creative Frontend stuff [![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)](https://codepen.io/Halgo)
+  - See some examples :
+
+	<a href="https://halgom.github.io/particle-constellation/">
+		<picture>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation&theme=dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation" />
+		</picture>
+	</a>
+	<a href="https://halgom.github.io/gallery-accordion-hover-effect/">
+		<picture>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect&theme=dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect" />
+		</picture>
+	</a>
+ 
 - Software Development
 
 ## :computer: Technologies I use
@@ -57,5 +86,4 @@ class User {
 
 ## :clock9: Current Works :clock5:
 
-- Backend automation
-- I'm currently working on 🔭 building an **API using API Platform** and on polishing my skills 🌱 in **Creative Frontend**.
+- large scale architecture
