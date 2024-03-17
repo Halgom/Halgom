@@ -67,7 +67,7 @@ class User {
 		</picture>
 	</a>
  
-- Software Development
+- Web Development and associated technologies
 
 ## :computer: Technologies I use
 
@@ -82,8 +82,22 @@ class User {
 |           | ![NoSQL](https://img.shields.io/badge/-NoSQL-000)                                                                                                                                                                                                                               | ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)                                                                                                                                            |
 | Tooling   |                                                                                                                                                                                                                                                                                 | ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)                         |
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom&hide_progress=true)
+<p align="center">
+	<a href="https://halgom.github.io/gallery-accordion-hover-effect/">
+		<picture>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom&theme=dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom" />
+		</picture>
+	</a>
+</p>
 
 ## :clock9: Current Works :clock5:
 
-- large scale architecture
+- Teaching about large scale software architecture
