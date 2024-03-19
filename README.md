@@ -37,35 +37,36 @@ class User {
 
 ## :heart: Technologies I love
 
-- Creative Frontend stuff [![Codepen](https://img.shields.io/badge/-Codepen-000?&logo=codepen)](https://codepen.io/Halgo)
-  - See some examples :
-
-	<a href="https://halgom.github.io/particle-constellation/">
-		<picture>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation&theme=dark"
-				media="(prefers-color-scheme: dark)"
-			/>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation"
-				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation" />
-		</picture>
-	</a>
-	<a href="https://halgom.github.io/gallery-accordion-hover-effect/">
-		<picture>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect&theme=dark"
-				media="(prefers-color-scheme: dark)"
-			/>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect"
-				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect" />
-		</picture>
-	</a>
+- Creative Frontend stuff <a href="https://codepen.io/Halgo" target="_blank"><img src="https://img.shields.io/badge/-Codepen-000?&logo=codepen" /></a>
+	- See some examples :
+	<p align="center">
+		<a href="https://halgom.github.io/particle-constellation/" target="_blank">
+			<picture>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation&theme=dark"
+					media="(prefers-color-scheme: dark)"
+				/>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation" />
+			</picture>
+		</a>
+		<a href="https://halgom.github.io/gallery-accordion-hover-effect/" target="_blank">
+			<picture>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect&theme=dark"
+					media="(prefers-color-scheme: dark)"
+				/>
+				<source
+					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect"
+					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+				/>
+				<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect" />
+			</picture>
+		</a>
+  	</p>
  
 - Web Development and associated technologies
 
@@ -83,7 +84,7 @@ class User {
 | Tooling   |                                                                                                                                                                                                                                                                                 | ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)                         |
 
 <p align="center">
-	<a href="https://halgom.github.io/gallery-accordion-hover-effect/">
+	<a href="https://github.com/Halgom?tab=repositories">
 		<picture>
 			<source
 				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Halgom&theme=dark"
