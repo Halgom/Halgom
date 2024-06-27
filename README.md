@@ -1,14 +1,4 @@
-```
-  _  _ _     _ _   _      ___           _ 
- | || (_)   (_) |_( )___ | __| _ ___ __| |
- | __ | |_  | |  _|/(_-< | _| '_/ -_) _` |
- |_||_|_( ) |_|\__| /__/ |_||_| \___\__,_|
-        |/                                
-```
-
-# This is me breaking into the programming world...
-
-## :heavy_dollar_sign: `whoami`
+## `$ whoami`
 
 ```js
 class User {
@@ -99,7 +89,3 @@ class User {
 		</picture>
 	</a>
 </p>
-
-## :clock9: Current Works :clock5:
-
-- Teaching about large scale software architecture
