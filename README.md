@@ -33,28 +33,12 @@ class User {
 	<p align="center">
 		<a href="https://halgom.github.io/particle-constellation/" target="_blank">
 			<picture>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation&theme=dark"
-					media="(prefers-color-scheme: dark)"
-				/>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation"
-					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-				<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=particle-constellation" />
+				<img src="particles.png" />
 			</picture>
 		</a>
 		<a href="https://halgom.github.io/gallery-accordion-hover-effect/" target="_blank">
 			<picture>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect&theme=dark"
-					media="(prefers-color-scheme: dark)"
-				/>
-				<source
-					srcset="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect"
-					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-				/>
-				<img src="https://github-readme-stats.vercel.app/api/pin?username=Halgom&repo=gallery-accordion-hover-effect" />
+				<img src="accordion.png" />
 			</picture>
 		</a>
   	</p>
